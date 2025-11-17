@@ -1,0 +1,8 @@
+data/RWI-GEO-RED/cross_section-all-of-germany-2024/CampusFile_HK_2024.csv filter=lfs diff=lfs merge=lfs -text
+data/RWI-GEO-RED/cross_section-all-of-germany-2024/CampusFile_WK_2024.csv filter=lfs diff=lfs merge=lfs -text
+data/RWI-GEO-RED/cross_section-all-of-germany-2024/CampusFile_WM_2024.csv filter=lfs diff=lfs merge=lfs -text
+data/RWI-GEO-RED/cross_section.zip filter=lfs diff=lfs merge=lfs -text
+data/RWI-GEO-RED/panel.zip filter=lfs diff=lfs merge=lfs -text
+data/RWI-GEO-RED/panel-15-largest-cities-germany/CampusFile_HK_cities.csv filter=lfs diff=lfs merge=lfs -text
+data/RWI-GEO-RED/panel-15-largest-cities-germany/CampusFile_WK_cities.csv filter=lfs diff=lfs merge=lfs -text
+data/RWI-GEO-RED/panel-15-largest-cities-germany/CampusFile_WM_cities.csv filter=lfs diff=lfs merge=lfs -text
